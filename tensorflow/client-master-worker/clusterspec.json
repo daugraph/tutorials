@@ -1,0 +1,9 @@
+{
+    "worker": [
+        "localhost:10001",
+        "localhost:10002"
+    ],
+    "master": [
+        "localhost:20001"
+    ]
+}
